@@ -1,2 +1,5 @@
 venv/
 giphy_adapter.egg-info/
+.pytest_cache/*
+examples/__pycache__/*
+tests/__pycache__/*
